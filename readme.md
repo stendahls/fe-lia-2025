@@ -1,15 +1,22 @@
-# LIA Frontend
+# Human backup
+
+Recreate Stendahls' web at https://www.stendahls.se/ .
+
+Use our live pages as a sketch to start rewriting our web. How far you get, how your result looks and functions does not matter.
+
+What matters is how you write your code and structure it.
 
 ### Goals
-* Time to start: < 15 min
-* Time to finish: more than 2 hours but able to create something within 1 hour
-* As little time as possible spent on tooling
+* Do our start page first.
+* Prefer to do a little bit of everything; HTML, JS, CSS, etc.
+* Split the code into components and att structure where the repo needs.
+* Write and add structure so that it would be easy for another person to take over your work.
+* Make commits in Git with commit messages.
+* Stuff should work in major browsers and both on desktop and mobile.
+* Hard code everything.
+* Copy content from our pages.
+* Please feel free to copy code from our pages as well, however code in the repo should be used, easy to read, and make sense.
 
-### Inputs
-```
-ge dem repot + instruktioner till vår sajt och be dem göra en cheesy x-mas edition. Någon flum spec med requests som "Vi gillar snö", "Man måste ha en jultomte", "Nuvarande färger känns helt fel" , "Katter är aldrig ur tiden" och lite assets kanske. Sen tjöta lite om vad de gjort å varför. Kanske trycka på att använda git å whiteboard för att göra lite stories och pushar.
-```
-
-```
-"Hjälp vi tappade bort vår kod till Stendahls hemsida ni måste bygga upp den igen". Börja med tomt repo, titta på vår sida lajv. Gör så långt de kan, ska inte bli klart. Dela upp i komponenter och gör commits. Skit i allt med dynamik och operations, hårdkoda och strunta i att det ska deployas. Ta all assets från lajv. Okej att kopiera kod men den ska make sense i ett projekt (inte bara saxa in en hel renderad css-fil, hellre bara några rader css men att det är lätt för någon annan att fortsätta arbetet). Koden ska ju hellre skrivas än att kopieras (vi behöver inte bygga upp den igen på riktigt, det är bara en "skiss" att följa). Tryck på att det egentligen inte spelar någon roll hur resultatet ser ut utan de viktiga är att kunna resonera om varför man gjort saker och hur. Namn/termer på grejor behöver inte matcha på något sätt lajv. Resonemang som "Jag ville inte dra in lint för tänkte att jag hellre hinner fixa en till liten komponent" är valida, insikten att man prioriterade bort lint för tid är det viktiga. Kanske ge någon prio ex "Startsidan först",  "Någon slags meny", "Funka i både desktop och mobil".
-```
+### Do not
+* Do not get stuck on polishing.
+* Do not get stuck on tooling, ops or deployment.
