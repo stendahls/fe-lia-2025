@@ -6,17 +6,20 @@ Use our live pages as a sketch to start rewriting our web. How far you get, how 
 
 What matters is how you write your code and structure it.
 
-### Goals
-* Do our start page first.
-* Prefer to do a little bit of everything; HTML, JS, CSS, etc.
-* Split the code into components and att structure where the repo needs.
-* Write and add structure so that it would be easy for another person to take over your work.
-* Make commits in Git with commit messages.
-* Stuff should work in major browsers and both on desktop and mobile.
-* Hard code everything.
-* Copy content from our pages.
-* Please feel free to copy code from our pages as well, however code in the repo should be used, easy to read, and make sense.
+### Goals and tips
+
+- Do our start page first.
+- Prefer to do a little bit of everything; HTML, JS, CSS, etc.
+- Split the code into components and att structure where the repo needs.
+- Write and add structure so that it would be easy for another person to take over your work.
+- Make commits in Git with commit messages.
+- Stuff should work in major browsers and both on desktop and mobile.
+- Hard code everything.
+- Copy content from our pages.
+- Please feel free to copy code from our pages as well, however code in the repo should be used, easy to read, and make sense.
+- We have created a component for you to help you start out, the Navbar component. It shows you how to structure a component and also how to use it in the app. You dont _have to_ use the premade component, but if you do, note that the component is not finished, so it's up to you to make it work properly! There is also some weird CSS in it, see if you can find it and fix it!
 
 ### Do not
-* Do not get stuck on polishing.
-* Do not get stuck on tooling, ops or deployment.
+
+- Do not get stuck on polishing.
+- Do not get stuck on tooling, ops or deployment.
