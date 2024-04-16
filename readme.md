@@ -26,21 +26,25 @@ What matters is how you write your code and structure it.
 You can find our template repo at https://github.com/stendahls/fe-lia-2024 .
 
 You will need to clone it to your computer by running:
+
 ```
 git clone https://github.com/stendahls/fe-lia-2024.git
 ```
 
 Change to the new folder:
+
 ```
 cd fe-lia-2024
 ```
 
 Install node packages by running:
+
 ```
 npm install
 ```
 
 Start the local dev service by running:
+
 ```
 npm run dev
 ```
@@ -55,6 +59,6 @@ component and how to use it. Focus on the whole solution rather than "just" fixi
 
 ### Instructions for delivery
 
-- When you are finished or the time is up, ZIP the project and send/upload to https://wkf.ms/3UgZU9G.
-- Use the naming convention "yourname-StendahlsWebsite" for your ZIP file.
-
+- When you are finished or the time is up, ZIP the project. Use the naming convention "yourname-StendahlsWebsite" for
+  your ZIP file.
+- Upload the ZIP at https://forms.monday.com/forms/b1e5df64eb028fb5a615619f230c54a2?r=euc1 .
