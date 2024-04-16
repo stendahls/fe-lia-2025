@@ -61,4 +61,4 @@ component and how to use it. Focus on the whole solution rather than "just" fixi
 
 - When you are finished or the time is up, ZIP the project. Use the naming convention "yourname-StendahlsWebsite" for
   your ZIP file.
-- Upload the ZIP at https://forms.monday.com/forms/b1e5df64eb028fb5a615619f230c54a2?r=euc1 .
+- Upload the ZIP at https://wkf.ms/3UgZU9G
