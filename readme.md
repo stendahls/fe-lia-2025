@@ -55,5 +55,6 @@ component and how to use it. Focus on the whole solution rather than "just" fixi
 
 ### Instructions for delivery
 
-- When you are finished or the time is up, ZIP the project and send/upload to X.
+- When you are finished or the time is up, ZIP the project and send/upload to https://wkf.ms/3UgZU9G.
 - Use the naming convention "yourname-StendahlsWebsite" for your ZIP file.
+
