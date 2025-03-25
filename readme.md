@@ -1,4 +1,4 @@
-Recreate Stendahls' web at https://www.stendahls.se/ .
+Recreate Stendahls' web at https://www.stendahls.se/
 
 Use our live pages as a sketch to start rewriting our web. How far you get, how your result looks and functions does not
 matter.
@@ -23,18 +23,18 @@ What matters is how you write your code and structure it.
 
 ### Get started
 
-You can find our template repo at https://github.com/stendahls/fe-lia-2024 .
+You can find our template repo at https://github.com/stendahls/fe-lia-2025 .
 
 You will need to clone it to your computer by running:
 
 ```
-git clone https://github.com/stendahls/fe-lia-2024.git
+git clone https://github.com/stendahls/fe-lia-2025.git
 ```
 
 Change to the new folder:
 
 ```
-cd fe-lia-2024
+cd fe-lia-2025
 ```
 
 Install node packages by running:
